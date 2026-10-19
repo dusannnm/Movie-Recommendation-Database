@@ -1,0 +1,31 @@
+# Compiled output
+out/
+bin/
+build/
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/*
+!.vscode/settings.json
+.settings/
+.project
+.classpath
+nbproject/
+
+# Logs and crash dumps
+*.log
+hs_err_pid*
+
+# Submission 
+md210615.zip
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
